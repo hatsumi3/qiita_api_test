@@ -1,3 +1,3 @@
 # description
 
-qiita api practice
+qiita api practice written in the golang
